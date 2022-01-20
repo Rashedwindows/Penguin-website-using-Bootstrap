@@ -1,0 +1,30 @@
+
+
+.first-section{
+
+    background-color: #FFFBF0;
+    /* padding-bottom: 80px; */
+    width: 100%;
+    
+}
+
+
+.first-section span{
+
+    color:#FABE4C;
+}
+
+
+.first-section .btn-img{
+
+    width: 24px;
+}
+
+.first-section button{
+
+    background-color: #A4BC46;
+    color:white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
